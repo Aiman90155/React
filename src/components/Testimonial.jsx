@@ -5,7 +5,7 @@ const Testimonial = () => {
     <div className='bg-[#F5F5F5] border-[#DDDDDD] border-1 rounded py-8 px-6 sm:px-8 mt-10 flex flex-col sm:flex-row items-center sm:items-start gap-4 sm:gap-6 text-sm'>
 
       <img
-        src="/public/images/image-4.png"
+        src="/images/image-4.png"
         alt="This is me"
         className="w-full sm:w-auto max-w-[150px] h-auto object-cover rounded"
       />
