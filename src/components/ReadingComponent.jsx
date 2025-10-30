@@ -1,7 +1,7 @@
 import React from 'react'
 import BlogCard from './BlogCard'
-import image1 from "../images/image-1.png"
-import image2 from "../images/image-2.png"
+import image1 from "../public/image-1.png"
+import image2 from "../public/image-2.png"
 
 const ReadingComponent = () => {
   return (
