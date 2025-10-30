@@ -16,7 +16,7 @@ const About = () => {
       
       <div className='flex flex-col md:flex-row items-center gap-10 mb-16'>
         <img
-          src="/src/assets/photo-1.jpg"
+          src="/public/images/photo-1.jpg"
           alt="Team working"
           className="rounded-xl shadow-md w-full md:w-1/2 object-cover"
         />
@@ -59,7 +59,7 @@ const About = () => {
   <div className="merriweather-font grid sm:grid-cols-2 md:grid-cols-3 gap-8">
     <div className=" bg-white border border-gray-100 p-6 rounded-xl shadow-sm hover:shadow-md transition">
       <img
-        src="/src/assets/Aiman.jpg"
+        src="/public/images/Aiman.jpg"
         alt="Aiman"
         className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
       />
@@ -69,7 +69,7 @@ const About = () => {
 
     <div className="bg-white border border-gray-100 p-6 rounded-xl shadow-sm hover:shadow-md transition">
       <img
-        src="/src/assets/Eman.jpg"
+        src="/public/images/Eman.jpg"
         alt="Eman"
         className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
       />
@@ -79,7 +79,7 @@ const About = () => {
 
     <div className="bg-white border border-gray-100 p-6 rounded-xl shadow-sm hover:shadow-md transition">
       <img
-        src="/src/assets/Abdullah.jpg"
+        src="/public/images/Abdullah.jpg"
         alt="Abdullah"
         className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
       />
@@ -90,7 +90,7 @@ const About = () => {
     
     <div className="bg-white border border-gray-100 p-6 rounded-xl shadow-sm hover:shadow-md transition">
       <img
-        src="/src/assets/John.jpg"
+        src="/public/images/John.jpg"
         alt="John"
         className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
       />
@@ -101,7 +101,7 @@ const About = () => {
     
     <div className="bg-white border border-gray-100 p-6 rounded-xl shadow-sm hover:shadow-md transition">
       <img
-        src="/src/assets/Mac.jpg"
+        src="/public/images/Mac.jpg"
         alt="Mac"
         className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
       />
@@ -111,7 +111,7 @@ const About = () => {
 
     <div className="bg-white border border-gray-100 p-6 rounded-xl shadow-sm hover:shadow-md transition">
       <img
-        src="/src/assets/Moaaz.jpg"
+        src="/public/images/Moaaz.jpg"
         alt="Moaaz"
         className="w-24 h-24 rounded-full mx-auto mb-4 object-cover"
       />

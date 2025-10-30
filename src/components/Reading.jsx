@@ -11,7 +11,7 @@ const Reading = () => {
         
       <div className='flex flex-col sm:flex-row items-start gap-4 mt-7'>
         <img
-          src="/src/assets/image-5.png"
+          src="/public/images/image-5.png"
           alt="This is an image"
           className='w-full sm:w-[250px] h-auto sm:h-[165.34px] object-cover rounded'
         />
@@ -29,7 +29,7 @@ const Reading = () => {
 
       <div className='flex flex-col sm:flex-row items-start gap-4 mt-7'>
         <img
-          src="/src/assets/image-6.png"
+          src="/public/images/image-6.png"
           alt="This is an image"
           className='w-full sm:w-[250px] h-auto sm:h-[165.34px] object-cover rounded'
         />

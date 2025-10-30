@@ -20,14 +20,14 @@ const Blog = () => {
 
       <div className='w-full mt-3'>
         <img
-          src="/src/assets/Post-Thumbnail.png"
+          src="/public/images/Post-Thumbnail.png"
           alt="This is an image"
           className='w-full h-auto rounded'
         />
       </div>
 
       <div className='flex items-center gap-2 mt-3 text-sm sm:text-base'>
-        <img src="/src/assets/image-3.png" alt="This is an image" className='w-8 h-8 object-cover rounded-full'/>
+        <img src="/public/images/image-3.png" alt="This is an image" className='w-8 h-8 object-cover rounded-full'/>
         <span>George Costanza</span>
       </div>
 
